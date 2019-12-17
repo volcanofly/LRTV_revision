@@ -1,7 +1,7 @@
 # LRTV_revision
 1. LRTV [1] is a super-resolution method that does not need any training data.
 
-[1] Shi, Feng, et al. "LRTV: MR image super-resolution with low-rank and total variation regularizations." IEEE transactions on medical imaging 34.12 (2015): 2459-2466.
+  [1] Shi, Feng, et al. "LRTV: MR image super-resolution with low-rank and total variation regularizations." IEEE transactions on medical imaging 34.12 (2015): 2459-2466.
 
 2. LRTV has publicly abailable code:
 https://bitbucket.org/fengshi421/superresolutiontoolkit/src/master/
